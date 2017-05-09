@@ -31,7 +31,7 @@
         <script><![CDATA[(function executeRule(current, previous /*null when async*/) {
 
 	gs.addInfoMessage('Sample BR has run');
-	gs.debug('Hello');
+	gs.debug('Goodbye');
 
 })(current, previous);]]></script>
         <sys_class_name>sys_script</sys_class_name>
@@ -50,7 +50,7 @@
         <sys_scope display_value="K17">a5abdf7a40a232007f44ce8b51816b36</sys_scope>
         <sys_update_name>sys_script_a6cc5fba40a232007f44ce8b51816b7f</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-05-09 18:20:36</sys_updated_on>
+        <sys_updated_on>2017-05-09 18:23:13</sys_updated_on>
         <template/>
         <when>before</when>
     </sys_script>
